@@ -29,7 +29,7 @@ Part 7: Use Postman and POST request
 ### 3. AllStudent.png
 ![AllStudents.png](AllStudent.png)
 
-### 4. (SingleStudent.png
+### 4. SingleStudent.png
 ![SingleStudent.png](SingleStudent.png)
 
 ### 5. Unmatched.png 
