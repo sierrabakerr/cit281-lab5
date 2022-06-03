@@ -22,20 +22,14 @@ Part 7: Use Postman and POST request
 
 ## Lab Deliverables:
 
-### 1. fastify-server.js
-[fastify-server.js](fastify-server.js)
+### 1. [fastify-server.js](fastify-server.js)
 
-### 2. package.json
-[package.json](package.json)
+### 2. [package.json](package.json)
 
-### 3. AllStudents.png
-![AllStudents.png](AllStudent.png)
+### 3. ![AllStudents.png](AllStudent.png)
 
-### 4. SingleStudent.png
-![SingleStudent.png](SingleStudent.png)
+### 4. ![SingleStudent.png](SingleStudent.png)
 
-### 5. Unmatched.png
-![Unmatched.png](Unmatched.png)
+### 5. ![Unmatched.png](Unmatched.png)
 
-### 6. StudentPost.png
-![StudentPost.png](StudentPost.png)
+### 6. ![StudentPost.png](StudentPost.png)
