@@ -26,10 +26,14 @@ Part 7: Use Postman and POST request
 
 ### 2. [package.json](package.json)
 
-### 3. ![AllStudents.png](AllStudent.png)
+### 3. AllStudent.png
+![AllStudents.png](AllStudent.png)
 
-### 4. ![SingleStudent.png](SingleStudent.png)
+### 4. (SingleStudent.png
+![SingleStudent.png](SingleStudent.png)
 
-### 5. ![Unmatched.png](Unmatched.png)
+### 5. Unmatched.png 
+![Unmatched.png](Unmatched.png)
 
-### 6. ![StudentPost.png](StudentPost.png)
+### 6. StudentPost.png
+![StudentPost.png](StudentPost.png)
