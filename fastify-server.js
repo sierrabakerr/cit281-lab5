@@ -1,3 +1,7 @@
+/*
+    CIT 281 Lab 5
+    Name: Sierra Baker
+*/
 const { first } = require("lodash");
 
 const fastify = require("fastify")();
